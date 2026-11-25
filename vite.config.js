@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/ecommerce-react/',
+  base: 'https://gogulaakshaya.github.io/ecommerce-react/',
 })
